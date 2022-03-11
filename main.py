@@ -18,7 +18,7 @@ def setupBoard():
 		["","",""]
 	]
 
-cacca ciao
+ una nuova feature del codice
 
 def isPlayersNamesSet():
 	return player1_name != "" and player2_name != ""
