@@ -18,6 +18,7 @@ def setupBoard():
 		["","",""]
 	]
 
+cacca ciao
 
 def isPlayersNamesSet():
 	return player1_name != "" and player2_name != ""
