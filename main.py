@@ -36,6 +36,7 @@ def setupPlayersName():
 	print("Welcome "+(player2_name))
 	print ("Flipping coin...")
 	whoGoesFirst = randint(0,1)
+	print(whoGoesFirst)
 	
 def setupBoard():
 	global board
